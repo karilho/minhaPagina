@@ -4,6 +4,9 @@ Este pequeno projeto foi uma mini página em HTML e CSS para colocar em prática
 
 Ainda tenho que corrigir:
 
+
 Zoom Infinito na página.
+
 Criar a página de curriculo e a de contato.
+
 Adaptar para dispositivos móveis.
