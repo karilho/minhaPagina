@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #72706e;
+    background: #4f694c;
     padding: 20px;
 }
 
@@ -24,14 +24,16 @@ nav li {
 
 nav a {
     color: #f2f0f0;
-    font-weight: bold;
+    font-weight: ;
     font-size: 25px;
     text-decoration: none;
 }
 
 nav a:hover {
     text-transform: uppercase;
-    color: #c4ebc3;
+    font-weight: bold;
+    font-size: 30px;
+    color: #0a0e0a;
 }
 
 .titulo-principal{
@@ -69,7 +71,7 @@ nav a:hover {
 }
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #888888);
+    background: linear-gradient(#FEFEFE, #4f694c);
 }
 
 .mapa p {
